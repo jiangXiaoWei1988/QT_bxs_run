@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form_customView</class>
+ <widget class="QWidget" name="Form_customView">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>983</width>
+    <height>603</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">*{
+font: 11pt &quot;Arial&quot;;
+color: white;
+	background-color:rgb(39,42,55);
+}
+QLineEdit{
+background-color:rgb(82,87,104);
+}
+
+</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
